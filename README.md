@@ -1,5 +1,4 @@
-# fssai-acceptance-sampling
-Risk-constrained acceptance sampling for food import quality assurance: a milk-powder case study
+
 # Risk-Constrained Acceptance Sampling for Food Import Quality Assurance
 
 ## A Milk-Powder Case Study in Statistical Quality Control
